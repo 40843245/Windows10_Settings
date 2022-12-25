@@ -1,0 +1,12 @@
+In this article, I will teach you:
+How to look at and set default app settings in Windows 10.
+
+In Windows 10 and Windows 11, the method is similar.
+
+Step 1:
+Open Settings Console.
+Step 2:
+Select Apps->Default Apps.
+
+On the bottom, there are many things you can do including:
+Choose defaults by apps type.
