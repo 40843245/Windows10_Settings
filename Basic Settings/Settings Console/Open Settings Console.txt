@@ -1,0 +1,32 @@
+There are many ways to open Settings Console.
+
+[method 1]On search bar.
+Step 1:
+On search bar, search Settings.
+Step 2:
+Click the Icon which its name is "Settings".
+
+[method 2]On DOS cmd prompt.
+Step 1:
+Open DOS cmd prompt.
+Step 2:
+On DOS cmd prompt, type the following line:
+start ms-settings:
+
+[method 3]On PowerShell cmd prompt.
+Step 1:
+Open PowerShell cmd prompt.
+Step 2:
+On PowerShell cmd prompt, type the following line:
+start ms-settings:
+
+NOTE:
+For [method 2] and [method 3],
+the command may NOT be available or be different in other version than Windows 10 and Windows 11.
+You can try the command if you are boring.
+I just have tried it in Windows 10 and Windows 11.
+
+[method 4]On taskbar.
+If you pin the Settings app on taskbar, you also can
+Step 1:
+Just simply click the Setting icon on taskbar.
