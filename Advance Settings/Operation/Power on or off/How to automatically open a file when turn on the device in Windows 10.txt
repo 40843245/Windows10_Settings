@@ -1,0 +1,24 @@
+In this article I will teach you:
+In Windows 10,
+how to automatically open when the device is turn on?
+
+--------------------------------------------
+Step 1:
+Copy the file to the folder.
+...\Users\user\AppData\Roaming\Microsoft\Windows\Start Menu
+
+Step 2:
+Restart the device.
+
+If it does NOT work, please do step 3.
+Step 3:
+Create a shortcut for the link in the folder.
+...\Users\user\AppData\Roaming\Microsoft\Windows\Start Menu
+
+
+--------------------------------------------
+NOTE:
+You can search the folder
+...\Users\user\AppData\Roaming\Microsoft\Windows\Start Menu
+by typing the filename in searchbar (the icon with search, searchbar is shown in taskbar).
+The select file location.
